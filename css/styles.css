@@ -46,13 +46,13 @@
 	box-sizing: border-box;
 }
 html {
-    scroll-behavior: smooth;
+	scroll-behavior: smooth;
 }
 body {
 	margin: var(--header-height) 0 0 0;
 	font-family: var(--body-font);
 	font-size: var(--normal-font-size);
-    color: var(--second-color);
+	color: var(--second-color);
 }
 h1,
 h2,
@@ -89,4 +89,13 @@ a {
 .section {
 	padding-top: 3rem;
 	padding-bottom: 2rem;
+}
+.bd-grid {
+	max-width: 1024px;
+	display: grid;
+	grid-template-columns: 100%;
+	grid-column-gap: 2rem;
+	width: calc(100% - 2rem);
+	margin-left: var(--mb-2);
+	margin-right: var(--mb-2);
 }

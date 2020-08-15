@@ -15,7 +15,7 @@ https://github.com/JOSEPHTEMBU/my-portfolio
 
 
 ## Live link
-
+https://josephtembu.github.io/my-portfolio/
 
 ## Technologies
 

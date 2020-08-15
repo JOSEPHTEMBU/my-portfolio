@@ -11,7 +11,7 @@ Joseph Mulama Tembu
 https://github.com/JOSEPHTEMBU/my-portfolio
 
 ## Project Screenshort
-![alt text](screenshot.png)
+![alt my portfolio](screenshot.png)
 
 
 ## Live link
